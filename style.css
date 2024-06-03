@@ -1,0 +1,23 @@
+body {
+  font-size: 3rem;
+}
+
+.txt-sh {
+  text-shadow: 3px 3px 2px black;
+}
+
+.title-sh {
+  text-shadow: 0px 0px 2px black;
+}
+
+.txt-stk {
+  -webkit-text-stroke: 1px black;
+}
+
+.fs-5r {
+  font-size: 5rem;
+}
+
+.p-t-18 {
+  padding-top: 18%;
+}
