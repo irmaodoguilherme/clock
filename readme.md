@@ -10,7 +10,7 @@ Exibe o horário atual encontrado na sua máquina
 
 <h2 id="como-acessar">Como acessar</h2>
 
-Você pode acessá-lo [aqui](clock-gal.netlify.app/) ou através do link na seção 'About'.
+Você pode acessá-lo [aqui](https://clock-gal.netlify.app/) ou através do link na seção 'About'.
 
 <h2 id="suporte">Suporte</h2>
 
