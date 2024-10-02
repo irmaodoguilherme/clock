@@ -1,4 +1,10 @@
-body {
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.fs-3r {
   font-size: 3rem;
 }
 
@@ -20,4 +26,10 @@ body {
 
 .p-t-18 {
   padding-top: 18%;
+}
+
+.center-element {
+  position: absolute;
+  inset: 0;
+  margin: auto;
 }
